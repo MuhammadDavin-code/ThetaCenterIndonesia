@@ -2,7 +2,7 @@
 
 ## Project THETA CENTER INDONESIA
 
-**URL**: https://thetacenterindonesia.com/
+**URL**: https://thetacenterindonesia.com
 
 ## How can I edit this code?
 
